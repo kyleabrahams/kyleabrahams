@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kyleabrahams/static/css/main.f854f544.chunk.css",
+    "main.js": "/kyleabrahams/static/js/main.85279ce1.chunk.js",
+    "main.js.map": "/kyleabrahams/static/js/main.85279ce1.chunk.js.map",
+    "runtime-main.js": "/kyleabrahams/static/js/runtime-main.a04cbd38.js",
+    "runtime-main.js.map": "/kyleabrahams/static/js/runtime-main.a04cbd38.js.map",
+    "static/css/2.e4346227.chunk.css": "/kyleabrahams/static/css/2.e4346227.chunk.css",
+    "static/js/2.33ee0041.chunk.js": "/kyleabrahams/static/js/2.33ee0041.chunk.js",
+    "static/js/2.33ee0041.chunk.js.map": "/kyleabrahams/static/js/2.33ee0041.chunk.js.map",
+    "index.html": "/kyleabrahams/index.html",
+    "precache-manifest.6f1ce8f38b6ad596435a0c2425d38fa5.js": "/kyleabrahams/precache-manifest.6f1ce8f38b6ad596435a0c2425d38fa5.js",
+    "service-worker.js": "/kyleabrahams/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/kyleabrahams/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.f854f544.chunk.css.map": "/kyleabrahams/static/css/main.f854f544.chunk.css.map",
+    "static/js/2.33ee0041.chunk.js.LICENSE.txt": "/kyleabrahams/static/js/2.33ee0041.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a04cbd38.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.33ee0041.chunk.js",
+    "static/css/main.f854f544.chunk.css",
+    "static/js/main.85279ce1.chunk.js"
+  ]
+}
