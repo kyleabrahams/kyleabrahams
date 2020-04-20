@@ -49,7 +49,7 @@ class AboutMe extends Component {
                         </List>
                     </div>
                     
-                    </Cell>
+                </Cell>
             </Grid>
 
         </div>
